@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BikeBuddy</string>
+    <string name="title_activity_bike_route">Map</string>
+    <string name="title_activity_bike_route_main">BikeRouteMainActivity</string>
+
+    <string name="txt_pick_up">Pick Up Location</string>
+    <string name="txt_drop_off">Drop OFF Location</string>
+</resources>
